@@ -1,6 +1,6 @@
-name = "vless" # todo
+name = "cf-bmkg" # todo
 main = "_worker.js"
 compatibility_date = "2024-05-26"
 [[routes]]
-pattern = "vless.bmkg.xyz"
+pattern = "cf.bmkg.xyz"
 custom_domain = true
